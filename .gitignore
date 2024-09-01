@@ -1,0 +1,12 @@
+.vercel
+# Virtual environment
+venv/
+env/
+.venv/
+myenv/
+node_modules/
+*.replit
+package-lock.json
+replit.nix
+.env
+service.yaml
